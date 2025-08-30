@@ -9,9 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "next": "15.5.2"
+    "next": "14.2.32",
+    "react": "^18",
+    "react-dom": "^18"
   },
   "devDependencies": {
     "typescript": "^5",
